@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical" android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:padding="5dp"
+              android:gravity="center"
+              android:background="#BE0101">
+
+    <TextView
+            android:id="@+id/sensorId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="8sp"
+            android:textColor="#fff"
+            android:text="Hello"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="6sp"
+            android:layout_marginTop="5dp"
+            android:textColor="#F3FF00"
+            android:textStyle="bold"
+            android:text="Pressure"/>
+    <TextView
+            android:id="@+id/pressValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="6sp"
+            android:textColor="#E0DDDD"
+            android:text="Pressure"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="6sp"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textColor="#FFEB3B"
+            android:text="Temperature"/>
+    <TextView
+            android:id="@+id/tempValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="6sp"
+            android:textColor="#E0DDDD"
+            android:text="Pressure"/>
+</LinearLayout>

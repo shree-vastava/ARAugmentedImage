@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "326421455964",
+    "firebase_url": "https://araugmentedimage.firebaseio.com",
+    "project_id": "araugmentedimage",
+    "storage_bucket": "araugmentedimage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326421455964:android:23fb73e0cbf4cd86",
+        "android_client_info": {
+          "package_name": "com.example.arcoreaugmentedimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326421455964-h12harob880vb350ccm4d87egtto9da3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJky4XPmUw7kBWHuk0CHDV2XEA-AU194"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326421455964-h12harob880vb350ccm4d87egtto9da3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
